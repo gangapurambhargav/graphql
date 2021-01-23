@@ -1,4 +1,3 @@
 # lco-graphql
-A standard babel setup
-Starter project setup for upcoming crash courses
+This is small example of how graphQL works in a localhost
 # graphql
